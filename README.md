@@ -1,5 +1,4 @@
 # Open source practice
-
 [![](https://github.com/MonMan4/Lab3/workflows/tests/badge.svg)](https://github.com/MonMan4/Lab3/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
